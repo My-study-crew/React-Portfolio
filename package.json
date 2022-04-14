@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "name": "react-portfolio",
+  "description": "Random users React portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/My-study-crew/React-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "Jorge Martinez <davidjorge126@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/My-study-crew/React-Portfolio/issues"
+  },
+  "homepage": "https://github.com/My-study-crew/React-Portfolio#readme"
+}
