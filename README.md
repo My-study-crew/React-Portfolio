@@ -17,3 +17,13 @@ New dependencies install
 New file add
 
 New dependencies install
+
+## [MOD] Plugins and loaders configuration
+
+New dependencies install
+
+Webpack configuration modification
+
+Package modification
+
+Files fix
