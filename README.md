@@ -27,3 +27,15 @@ Webpack configuration modification
 Package modification
 
 Files fix
+
+## [MOD] Webpack Css configuration on React
+
+New dependencies install
+
+Webpack configuration modification
+
+New folder and files creation
+
+Sass file modification
+
+Entry file modification
