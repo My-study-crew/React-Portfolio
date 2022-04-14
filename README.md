@@ -9,3 +9,11 @@ Entry base
 Html base
 
 React base
+
+## [MOD] Webpack configuration
+
+New dependencies install
+
+New file add
+
+New dependencies install
