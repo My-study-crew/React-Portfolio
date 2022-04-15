@@ -39,3 +39,13 @@ New folder and files creation
 Sass file modification
 
 Entry file modification
+
+## [MOD] Webpack optimization
+
+New dependencies install
+
+New webpack development configuration
+
+Webpack configuration modification
+
+Package modification
